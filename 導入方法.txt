@@ -1,0 +1,8 @@
+[Citra]
+1 user/sdmc に luaフォルダの中身を全て入れる
+2 起動するときは lovepotion.3dsx を 開く
+
+[実機]
+1 SDカード直下に LovePotion というフォルダを作り
+　そこに luaフォルダの中身を全て入れる
+2 LovePotion.3dsx を Homebrew Launcher 等から起動する
